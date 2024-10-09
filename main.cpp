@@ -318,7 +318,7 @@ int main()
     // print_line();
 
     // signin();
-    // cout << "fk you" << endl;
+    // cout << "thank you" << endl;
     // display_Vandhav(v);
     return 0;
 }
